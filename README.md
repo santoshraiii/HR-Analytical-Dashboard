@@ -2,19 +2,32 @@
 
 This repository contains a Tableau dashboard created using the HR dataset. The dashboard provides insights into various aspects of HR analytics, including attrition rates, departmental trends, employee demographics, job satisfaction ratings, and attrition patterns based on different parameters.
 
+![image](https://github.com/santoshraiii/HR-Analytical-Dashboard/assets/128511075/05eaf00d-124d-4aca-b2a0-dd6155aa6edd)
+
+![image](https://github.com/santoshraiii/HR-Analytical-Dashboard/assets/128511075/5d49e68a-c4fe-4571-8c40-d8a176f105ed)
+
+
+
 ## Table of Contents
 
 - [Description](#description)
+- [Tableau Dashboard Link](#tableau-dashboard-link)
 - [Content](#content)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Tableau Dashboard Link](#tableau-dashboard-link)
+
 
 ## Description
 
 The Tableau dashboard in this repository is designed to provide comprehensive insights into HR analytics. It utilizes the HR dataset to present information on attrition by gender, departmental attrition, employee demographics, job satisfaction ratings, and attrition patterns across different age groups and education fields.
+
+## Tableau Dashboard Link
+
+You can access and interact with the Tableau dashboard by following this [link](https://public.tableau.com/views/Book1_16979644206930/HRAnalyticalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+Feel free to explore the visualizations and gain insights into the HR analytics provided by the dashboard.
 
 ## Content
 
@@ -48,8 +61,3 @@ Contributions to this project are welcome. If you have any suggestions, enhancem
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Tableau Dashboard Link
-
-You can access and interact with the Tableau dashboard by following this [link](https://public.tableau.com/views/Book1_16979644206930/HRAnalyticalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
-
-Feel free to explore the visualizations and gain insights into the HR analytics provided by the dashboard.
