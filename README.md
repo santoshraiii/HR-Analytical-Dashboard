@@ -16,7 +16,6 @@ This repository contains a Tableau dashboard created using the HR dataset. The d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Description
@@ -57,7 +56,4 @@ Feel free to explore the different sheets and visualizations in the Tableau dash
 
 Contributions to this project are welcome. If you have any suggestions, enhancements, or bug fixes, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
